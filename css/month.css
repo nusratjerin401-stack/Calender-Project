@@ -1,0 +1,50 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#year {
+    text-align: center;
+    color: brown;
+}
+
+#main{
+    width: 7in;
+    margin-left: auto;
+    margin-right: auto;
+   padding-left: 23px;
+}
+#main > div {
+    display: inline-block;
+    margin-bottom: 6px;
+
+}
+div.month-name {
+
+
+    text-align: center;
+    margin-bottom: 3px;
+    font-size: 8.5pt;
+    font-weight: bolder;
+}
+div.month {
+    width: 1.5in;
+   
+    height: 1.9in;
+    padding-left: 13px;
+}
+
+ div.month > div.day,div.month > div.header {
+    font-size: 5pt;
+    
+    display: inline-block;
+    width: .14in;
+    height: .12in;
+    text-align: center;
+    padding-top: 2px;
+    margin-bottom: 1.5px;
+    border: dashed black 1px;
+}
+
+div.month > div.day{
+    color:black;
+}
