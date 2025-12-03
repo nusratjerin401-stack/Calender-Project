@@ -1,0 +1,51 @@
+<div class="month">
+<div class="month-name"> Month Name</div>
+<div class="header">su</div>
+<div class="header">mo</div>
+<div class="header">tu</div>
+<div class="header">we</div>
+<div class="header">th</div>
+<div class="header">fr</div>
+<div class="header">sa</div>
+<div class="day no" data-index="2">m</div>
+<div class="day no" data-index="3">m</div>
+<div class="day no" data-index="4">m</div>
+<div class="day no" data-index="5">m</div>
+<div class="day no" data-index="6">m</div>
+<div class="day no" data-index="7">m</div>
+<div class="day no" data-index="8">m</div>
+<div class="day no" data-index="9">m</div>
+<div class="day no" data-index="10">m</div>
+<div class="day no" data-index="11">m</div>
+<div class="day no" data-index="12">m</div>
+<div class="day no" data-index="13">m</div>
+<div class="day no" data-index="14">m</div>
+<div class="day no" data-index="15">m</div>
+<div class="day no" data-index="16">m</div>
+<div class="day no" data-index="17">m</div>
+<div class="day no" data-index="18">m</div>
+<div class="day no" data-index="9">m</div>
+<div class="day no" data-index="20">m</div>
+<div class="day no" data-index="21">m</div>
+<div class="day no" data-index="22">m</div>
+<div class="day no" data-index="23">m</div>
+<div class="day no" data-index="24">m</div>
+<div class="day no" data-index="25">m</div>
+<div class="day no" data-index="26">m</div>
+<div class="day no" data-index="27">m</div>
+<div class="day no" data-index="28">m</div>
+<div class="day no" data-index="29">m</div>
+<div class="day no" data-index="30">m</div>
+<div class="day no" data-index="31">m</div>
+<div class="day no" data-index="32">m</div>
+<div class="day no" data-index="33">m</div>
+<div class="day no" data-index="34">m</div>
+<div class="day no" data-index="35">m</div>
+<div class="day no" data-index="36">m</div>
+<div class="day no" data-index="37">m</div>
+<div class="day no" data-index="38">m</div>
+<div class="day no" data-index="39">m</div>
+<div class="day no" data-index="40">m</div>
+<div class="day no" data-index="41">m</div>
+<div class="day no" data-index="42">m</div>
+</div>
